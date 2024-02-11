@@ -6,7 +6,7 @@
 
 ## Description
 
-Sentiment Analysis-Developed NLP model which analyze sentiment or emotion expressed in movie review.
+Sentiment Analysis-Developed NLP model which analyse sentiment or emotion expressed in movie review.
 
 ![Screenshot 2024-02-12 002154](https://github.com/SoniyaDhadse/NLP_MovieReview/assets/134217285/994f1f88-9ccf-45d1-9cc1-d8a66b8baaa2)      ![Screenshot 2024-02-12 002228](https://github.com/SoniyaDhadse/NLP_MovieReview/assets/134217285/2362b6e7-2e8c-4569-ac1d-d1a7c2fa58a3)
 
