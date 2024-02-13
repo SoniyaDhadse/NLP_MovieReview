@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Review</title><br><br>
+</head>
+<body style="background-color:black;">
+<h1 style="text-align:center;color:MediumSeaGreen;">Movie Review</h1>
+<div class="form" style="text-align:center;">
+    <form action="/reviews",form method="post">
+<!--        <input type="text" name="review" placeholder="review"><br><br>-->
+        <textarea rows="10" cols="60" name="review" style="background-color:MediumSeaGreen;" placeholder="Review"></textarea><br><br>
+        <input type="submit" class="btn btn-primary btn-block btn-large" style="color:white;background-color:MediumSeaGreen;width:10%;font-size:15px">
+    </form>
+<br><p style="color:MediumSeaGreen;font-family:aerialblack;font-size:35px;">Movie is {{res}}</p><br>
+</div>
+</body>
+</html>
